@@ -1,2 +1,2 @@
 # Sensor-de-temperatura
-Sensor de Temperatura para arduino
+Pequeno Sensor de temperatura para arduino
